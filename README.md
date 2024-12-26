@@ -7,4 +7,5 @@
 | John | Developer |
 | Jane | Designer |
 | Bob | Tester |
+| --- | --- |
 

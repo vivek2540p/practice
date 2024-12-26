@@ -4,8 +4,11 @@
 
 | --- | --- |
 | name | work |
+| --- | --- |
 | John | Developer |
+| --- | --- |
 | Jane | Designer |
+| --- | --- |
 | Bob | Tester |
 | --- | --- |
 
